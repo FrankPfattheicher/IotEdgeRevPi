@@ -3,3 +3,5 @@ This module adds azure connection state display to the Revolution Pi. It is ther
 
 Additionally the LEDs can be used calling module methods from the cloud.
 
+System states can optionally be reported to the IoT hub.
+

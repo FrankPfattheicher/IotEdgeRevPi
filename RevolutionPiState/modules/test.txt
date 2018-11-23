@@ -1,0 +1,12 @@
+
+"HostConfig": {
+    "Priviledged": true,
+    "Devices": [
+      {
+        "PathOnHost": "/dev/piControl0",
+        "PathInContainer": "/dev/piControl0",
+        "CgroupPermissions": "rwm"
+      }
+    ]
+  }
+
